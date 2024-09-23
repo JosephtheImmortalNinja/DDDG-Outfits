@@ -1,0 +1,26 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/repo_schema.json",
+	"authors": {
+		"zachattack92217": {}
+	},
+	"pack": {
+		"authors": [
+			"zachattack92217"
+		],
+		"characters": [
+			"Sayori"
+		],
+		"description": "",
+		"id": "cookie_shirt.zachattack92217.awesomeninjaxd",
+		"name": "Cookie Shirt",
+		"kind": [
+			"Styles"
+		],
+		"preview": [
+			"./teeshirt1l.png",
+			"./teeshirt1r.png"
+		],
+		"source": "",
+		"dddg2Path": "./index.json"
+	}
+}

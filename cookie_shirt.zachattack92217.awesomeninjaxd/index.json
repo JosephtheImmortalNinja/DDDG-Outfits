@@ -1,0 +1,48 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+	"packId": "cookie_shirt.zachattack92217.awesomeninjaxd",
+	"version": "2.0",
+	"dependencies": [
+		"dddg.buildin.sayori"
+	],
+	"characters": [
+		{
+			"id": "dddg.buildin.sayori:ddlc.sayori",
+			"styleGroups": [
+				{
+					"id": "cookie",
+					"styles": [
+						{
+							"poses": [
+								{
+									"id": "pose_1",
+									"compatibleHeads": [
+										"dddg.buildin.sayori:straight"
+									],
+									"positions": {
+										"Left": [
+											[
+												"./teeshirt1l.png"
+											],
+											[
+												"./teeshirt2l.png"
+											]
+										],
+										"Right": [
+											[
+												"./teeshirt1r.png"
+											],
+											[
+												"./teeshirt2r.png"
+											]
+										]
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
